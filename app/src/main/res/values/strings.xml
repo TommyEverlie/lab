@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab</string>
+    <string name="menuExit">Exit</string>
+    <string name="menuHelp">Help</string>
+    <string name="menuEdit">Edit</string>
+    <string name="menuFile">File</string>
+    <string name="menuNew">New</string>
+    <string name="menuOpen">Open</string>
+    <string name="menuSave">Save</string>
+</resources>
